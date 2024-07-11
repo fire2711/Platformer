@@ -1,4 +1,4 @@
-# Platformer
+# Slime Jump
 Description: This describes the thought process behind my CS50 Final Project and the difficulties that I went through. What my project is and the process I went through in order to
 My Project
 My project is a simple platforming game where you play as a small slime stuck at the bottom of a dungeon or well and the aim is the get to the top and escape. In order to move left and right the arrow keys are used and to jump space is used. There is collision between the blocks ensuring that the character sprite will not clip through the edges. Once the slime reaches the top, it displays, "You Win!" onto the screen.
